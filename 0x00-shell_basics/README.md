@@ -1,1 +1,1 @@
-This folder contains scripts that shows current working directory
+This folder contains scripts for shell commands
